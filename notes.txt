@@ -1,2 +1,3 @@
 Hollo git
 Learning git step by step
+Hi there, welcome!
